@@ -19,3 +19,10 @@
 **CÉLULA SOMÁTICA:** célula diploide, tiene 23 pares de cromosomas de los cuales 22 son autosomas y el último par es del de los cromosomas sexuales. 
 
 **CÉLULA GERMINAL:**
+
+**COHESINAS**: unen cromátidas hermanas
+
+**CONDENSINAS:** unen regiones de la misma hebra
+
+**Cromómero:**  son regiones más condensadas de los cromosomas que se observan al microscopio como partículas discretas y que suelen verse con mayor claridad en determinados estados celulares, como por ejemplo, en paquitena de la Profase-I meiótica en algunas especies. enrollamiento intenso del cromonema
+El cromonema (del griego χρώμα, chroma y nema, hebra) es la estructura filamentosa que compone cada una de las cromátidas hermanas. ​ 
