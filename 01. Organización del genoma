@@ -2,3 +2,98 @@
 Para ajustarse al espacio físico en el núcleo (5-10 micrometros), y para que pueda tener protección, organización y regulación (facilita la accesibilidad a los factores de transcripción).
 Los cromosomas, son el máximo grado de compactación de la cromatina. 
 El ADN extendido mide 1.8 m con 20 amstrong de diámetro, se compacta aproximadamente 10,000 veces. Una célula mide 30-50 nanómetros. El núcleo mide aprox. 5 nm. 
+
+Niveles de compactación del genoma
+El ADN humano mide aproximadamente 2 metros de longitud si se desenrolla completamente. Sin embargo, debe caber dentro de un núcleo de apenas 5–10 μm de diámetro. Esto es posible gracias a un proceso jerárquico de compactación, en el que el ADN se asocia con proteínas histonas y otras proteínas estructurales para formar la cromatina.
+
+La compactación no solo permite almacenar el ADN, sino que también regula procesos esenciales como la expresión génica, la replicación, la reparación del ADN y la segregación cromosómica durante la división celular.
+
+1. Doble hélice de ADN (2 nm)
+
+Es el nivel más básico de organización.
+
+Dos cadenas antiparalelas de ADN.
+Unidas por puentes de hidrógeno.
+Diámetro aproximado: 2 nm.
+
+En este nivel aún no existe compactación.
+
+2. Nucleosoma (≈10–11 nm)
+
+[!IMPORTANT]
+El nucleosoma es la unidad fundamental de la cromatina.
+
+Cada nucleosoma está formado por:
+
+un octámero de histonas:
+H2A
+H2B
+H3
+H4 (dos copias de cada una)
+alrededor de 146 pares de bases de ADN enrolladas alrededor del octámero.
+la histona H1 estabiliza el ADN entre nucleosomas formando el cromatosoma.
+
+Este nivel permite reducir aproximadamente siete veces la longitud del ADN.
+
+3. Fibra de cromatina (~10–30 nm)
+
+Tradicionalmente se describía una fibra de 30 nm formada por el empaquetamiento de nucleosomas.
+
+Sin embargo, estudios recientes utilizando criomicroscopía y técnicas de captura de conformación cromosómica sugieren que la fibra de 30 nm probablemente no representa la organización predominante de la cromatina in vivo. En su lugar, la cromatina adopta conformaciones dinámicas y variables según el tipo celular y el estado funcional.
+
+[!NOTE]
+En muchos cursos todavía se enseña la fibra de 30 nm como parte del modelo clásico. Es importante conocerla, pero también saber que actualmente es un concepto en revisión.
+
+4. Dominios en bucle (Chromatin loops)
+
+Los segmentos de cromatina forman bucles (loops) que acercan regiones distantes del ADN.
+
+Estos bucles permiten, por ejemplo, que un enhancer contacte con el promotor de un gen situado a cientos de miles de pares de bases de distancia.
+
+La formación de estos bucles depende principalmente de:
+
+cohesinas
+CTCF
+proteínas arquitectónicas del núcleo
+
+Este nivel de organización es fundamental para la regulación de la expresión génica.
+
+5. Dominios topológicamente asociados (TADs)
+
+Los Topologically Associating Domains (TADs) son regiones del genoma donde las secuencias interactúan preferentemente entre sí.
+
+Los TADs funcionan como "barrios" genómicos que limitan las interacciones entre genes y elementos reguladores.
+
+Su alteración puede provocar enfermedades incluso cuando el gen no está mutado, al modificar la regulación de su expresión.
+
+🩺 Conexión clínica
+
+Algunas microdeleciones, duplicaciones e inversiones producen enfermedad al romper los límites de un TAD, alterando la interacción entre genes y enhancers.
+
+6. Compartimentos cromatínicos (A y B)
+
+A mayor escala, la cromatina se organiza en dos grandes compartimentos:
+
+Compartimento	Características
+A	Eucromatina, genes activos, cromatina abierta
+B	Heterocromatina, genes reprimidos, cromatina compacta
+
+Esta organización contribuye a la regulación global de la expresión génica.
+
+7. Territorios cromosómicos
+
+Durante la interfase, cada cromosoma ocupa una región específica del núcleo conocida como territorio cromosómico.
+
+Los cromosomas no se encuentran mezclados al azar, sino que mantienen posiciones relativamente estables que favorecen determinadas interacciones génicas.
+
+8. Cromosoma metafásico (≈700 nm)
+
+Durante la mitosis la cromatina alcanza su máximo nivel de compactación.
+
+Las condensinas reorganizan la cromatina formando el cromosoma metafásico.
+
+Cada cromosoma está constituido por:
+
+dos cromátidas hermanas;
+unidas por cohesinas en el centrómero;
+listas para segregarse durante la anafase.
