@@ -256,3 +256,12 @@ Preguntas para reflexionar:
 ¿Cómo cambia el riesgo con la edad materna?
 ¿Cuál es el riesgo de recurrencia para futuros embarazos?
 ¿En qué sería diferente si el paciente tuviera una translocación Robertsoniana 14;21?
+
+
+La probabilidad de no disyunción no depende únicamente de la presencia o ausencia de un crossing-over. También depende de:
+
+el número de quiasmas (uno suele ser suficiente en cromosomas pequeños, mientras que los grandes requieren varios);
+la posición del quiasma (intermedia suele ser la más estable; muy distal o muy proximal pueden aumentar el riesgo según el cromosoma);
+la longitud del cromosoma y la distribución de sus hotspots de recombinación;
+el estado de las cohesinas, que deben mantener la unión durante años en el ovocito;
+la correcta orientación del bivalente en el huso meiótico.
